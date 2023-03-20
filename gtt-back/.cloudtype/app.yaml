@@ -8,5 +8,5 @@ options:
     - name: NODE_ENV
       value: production
   install: npm ci --production
-  ports: 3000
+  ports: 4000
   start: npm start
